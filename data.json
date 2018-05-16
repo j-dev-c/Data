@@ -1,0 +1,24 @@
+[
+    {
+        "album":"தமிழ்1",
+        "numberOfSongs":5,
+        "singer":"singer1,singer2,singer3",
+        "produce":"pro3",
+       " year":1
+
+    },
+    {
+        "album":"Tamil 2",
+        "numberOfSongs":5,
+        "singer":"singer1,singer2,singer3",
+        "produce":"pro1",
+        "year":2
+    },
+    {
+        "album":"தமிழ்13",
+        "numberOfSongs":5,
+        "singer":"singer1,singer2,singer3",
+        "produce":"pro1",
+        "year":3
+    }
+]
